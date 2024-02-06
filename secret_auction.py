@@ -4,7 +4,7 @@ import time
 print(secret_aucArt.logo)
 print("Welcome to secret auction program")
 
-bidders ={}
+bidders ={} #Dictionary
 is_continue = True
 
 while(is_continue == True):
